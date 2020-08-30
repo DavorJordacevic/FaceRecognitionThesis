@@ -24,3 +24,5 @@ cemu ce biti reci u nastavku ovog rada.
 Glavni cilj mog istrazivanja u ovom radu jeste sinteza sistema za prepoznavanje lica
 koristeci vec postojece metode za detekciju, ekstrakciju vektora obelezja, i njihovo
 uporedjivanje radi dobijanja zelenih rezultata.
+
+<img src="images/fr_process.jpg" alt="face_recognition_process" width="800"/>
